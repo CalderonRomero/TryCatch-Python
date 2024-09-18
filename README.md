@@ -38,7 +38,7 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 ```plaintext
 .
 ├── Ejercicio_01   # Primer ejercicio: MCD con números naturales
-├── Ejercicio_02     # Segundo ejercicio: MCD con números enteros
-└── README.md                              # Descripción del proyecto
+├── Ejercicio_02   # Segundo ejercicio: MCD con números enteros
+└── README.md      # Descripción del proyecto
 ```
 
