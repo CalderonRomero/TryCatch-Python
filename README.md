@@ -36,6 +36,6 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 
 ```plaintext
 .
-├── ejercicio_1_mcd_numeros_naturales.py   # Primer ejercicio: MCD con números naturales
-├── ejercicio_2_mcd_numeros_enteros.py     # Segundo ejercicio: MCD con números enteros
+├── Ejercicio_01   # Primer ejercicio: MCD con números naturales
+├── Ejercicio_02     # Segundo ejercicio: MCD con números enteros
 └── README.md                              # Descripción del proyecto
