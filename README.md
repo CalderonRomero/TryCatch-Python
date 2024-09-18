@@ -42,4 +42,10 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 ├── Ejercicio_02   # Segundo ejercicio: MCD con números enteros
 └── README.md      # Descripción del proyecto
 ```
+## Notas Adicionales
+-- El Máximo Común Divisor (MCD) es el mayor número que puede dividir a dos números sin dejar residuo.
+-- El Algoritmo de Euclides es un método eficiente para calcular el MCD.
+-- Los ejercicios demuestran cómo manejar excepciones en Python para asegurar que el programa funcione correctamente incluso cuando se ingresan datos inválidos.
 
+## Autor
+-- Las Innombrables
