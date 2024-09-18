@@ -50,4 +50,9 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 ## Autor
 - Las Innombrables
 
-[![Repositorio](https://img.shields.io/badge/Visita%20Nuestro%20Repositorio-blue?logo=github)](https://github.com/Las-Innombrables)
+ <p align="center">
+  <a href="https://github.com/Las-Innombrables">
+    <img src="https://img.shields.io/badge/Visita%20Nuestro%20Repositorio-blue?logo=github" alt="Repositorio">
+  </a>
+</p>
+
