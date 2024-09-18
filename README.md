@@ -6,6 +6,7 @@ Este repositorio está diseñado para ilustrar el uso de excepciones en Python, 
 ## Ejercicios
 
 Este repositorio contiene dos ejercicios prácticos que muestran cómo utilizar el manejo de excepciones en Python:
+<a href="https://github.com/tu-usuario/tu-repositorio" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">Visitar Repositorio</a>
 
 ### Ejercicio 1: Cálculo del MCD con Validación de Números Naturales
 
