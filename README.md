@@ -8,7 +8,8 @@ Este repositorio está diseñado para ilustrar el uso de excepciones en Python, 
 Este repositorio contiene dos ejercicios prácticos que muestran cómo utilizar el manejo de excepciones en Python:
 ### Ejercicio 1: Cálculo del MCD con Validación de Números Naturales
 
-![Static Badge](https://img.shields.io/badge/Ejercicio_01)
+[![Ejercico_01](![Static Badge](https://img.shields.io/badge/01-blue?logo=github&label=Ejercicio)
+)](https://github.com/tu-usuario/tu-repositorio)
 
 En este ejercicio, se implementa el algoritmo de Euclides para calcular el Máximo Común Divisor (MCD) de dos números naturales. Se valida que los números ingresados sean mayores que 0. Si el usuario ingresa un valor inválido, el programa seguirá solicitando una entrada válida.
 
