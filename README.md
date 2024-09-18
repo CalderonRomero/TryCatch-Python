@@ -3,13 +3,11 @@
 
 Este repositorio está diseñado para ilustrar el uso de excepciones en Python, una característica fundamental para manejar errores y condiciones excepcionales en programas. Python ofrece una potente infraestructura para gestionar errores a través de bloques `try`, `except`, `else`, y `finally`, permitiendo a los desarrolladores escribir código más robusto y confiable. El manejo de excepciones es esencial para mejorar la estabilidad de las aplicaciones y ofrecer una mejor experiencia al usuario.
 
-[![Visitar Repositorio](https://img.shields.io/badge/Visitar_Repositorio-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario/tu-repositorio)
-
 ## Ejercicios
 
 Este repositorio contiene dos ejercicios prácticos que muestran cómo utilizar el manejo de excepciones en Python:
 ### Ejercicio 1: Cálculo del MCD con Validación de Números Naturales
-
+[![Ejercicio 01](https://img.shields.io/badge/Visitar_Repositorio-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario/tu-repositorio)
 En este ejercicio, se implementa el algoritmo de Euclides para calcular el Máximo Común Divisor (MCD) de dos números naturales. Se valida que los números ingresados sean mayores que 0. Si el usuario ingresa un valor inválido, el programa seguirá solicitando una entrada válida.
 
 - **Archivo**: `ejercicio_1_mcd_numeros_naturales.py`
@@ -19,7 +17,7 @@ En este ejercicio, se implementa el algoritmo de Euclides para calcular el Máxi
   - Maneja entradas no válidas (números negativos, 0, texto) con mensajes de error.
 
 ### Ejercicio 2: Cálculo del MCD con Validación de Números Enteros
-
+[![Ejercicio 02](https://img.shields.io/badge/Visitar_Repositorio-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario/tu-repositorio)
 Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos o negativos. Se valida que el ingreso sea un número entero, solicitando una nueva entrada en caso de errores.
 
 - **Archivo**: `ejercicio_2_mcd_numeros_enteros.py`
@@ -40,3 +38,5 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 ├── Ejercicio_01   # Primer ejercicio: MCD con números naturales
 ├── Ejercicio_02     # Segundo ejercicio: MCD con números enteros
 └── README.md                              # Descripción del proyecto
+```
+[![Visita nuestro Repositorio](https://img.shields.io/badge/Visitar_Repositorio-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario/tu-repositorio)
