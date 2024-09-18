@@ -49,3 +49,5 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 
 ## Autor
 - Las Innombrables
+
+[![Repositorio](https://img.shields.io/badge/Visita%20Nuestro%20Repositorio-blue?logo=github)](https://github.com/Jherzon23/TryCatch-Python/blob/main/Ejercicio_01/Ejercicio01.ipynb)
