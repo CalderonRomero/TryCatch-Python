@@ -19,7 +19,7 @@ En este ejercicio, se implementa el algoritmo de Euclides para calcular el Máxi
   - Maneja entradas no válidas (números negativos, 0, texto) con mensajes de error.
 
 ### Ejercicio 2: Cálculo del MCD con Validación de Números Enteros
-[![Ejercicio 02](https://img.shields.io/badge/02-blue?logo=github&label=Ejercicio)](https://github.com/tu-usuario/tu-repositorio)
+[![Ejercicio 02](https://img.shields.io/badge/02-blue?logo=github&label=Ejercicio)](https://github.com/Jherzon23/TryCatch-Python/blob/main/Ejercicio_02/Ejercicio02.ipynb)
 
 Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos o negativos. Se valida que el ingreso sea un número entero, solicitando una nueva entrada en caso de errores.
 
