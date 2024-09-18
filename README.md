@@ -1,7 +1,8 @@
 # Introducción al Lenguaje de Programación Python: Excepciones
 ![Texto alternativo](https://aimlc-iitd.netlify.app/static/4650c83fda861c4ab6275175573643a1/361cf/featured_python.png)
 
-Este repositorio está diseñado para ilustrar el uso de excepciones en Python, una característica fundamental para manejar errores y condiciones excepcionales en programas. Python ofrece una potente infraestructura para gestionar errores a través de bloques `try`, `except`, `else`, y `finally`, permitiendo a los desarrolladores escribir código más robusto y confiable. El manejo de excepciones es esencial para mejorar la estabilidad de las aplicaciones y ofrecer una mejor experiencia al usuario.
+Este repositorio está diseñado para ilustrar el uso de excepciones en Python, una característica fundamental para manejar errores y condiciones excepcionales en programas. ![Static Badge](https://img.shields.io/badge/Python-white?logo=python)
+Python ofrece una potente infraestructura para gestionar errores a través de bloques `try`, `except`, `else`, y `finally`, permitiendo a los desarrolladores escribir código más robusto y confiable. El manejo de excepciones es esencial para mejorar la estabilidad de las aplicaciones y ofrecer una mejor experiencia al usuario.
 
 ## Ejercicios
 
