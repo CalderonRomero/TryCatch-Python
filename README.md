@@ -41,4 +41,5 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 ├── Ejercicio_02     # Segundo ejercicio: MCD con números enteros
 └── README.md                              # Descripción del proyecto
 ```
-[![Visita nuestro Repositorio](https://img.shields.io/badge/Visitar_Repositorio-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario/tu-repositorio)
+[![Ejercico_01](![Static Badge](https://img.shields.io/badge/01-blue?logo=github&label=Ejercicio)
+)](https://github.com/tu-usuario/tu-repositorio)
