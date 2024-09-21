@@ -31,7 +31,7 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.12.6
 - No se requieren librerías adicionales para ejecutar los ejercicios.
 
 ## Estructura del Repositorio
