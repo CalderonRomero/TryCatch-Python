@@ -12,7 +12,7 @@ Este repositorio contiene dos ejercicios prácticos que muestran cómo utilizar 
 
 En este ejercicio, se implementa el algoritmo de Euclides para calcular el Máximo Común Divisor (MCD) de dos números naturales. Se valida que los números ingresados sean mayores que 0. Si el usuario ingresa un valor inválido, el programa seguirá solicitando una entrada válida.
 
-- **Archivo**: `Ejercicio_01/Ejercicio01.ipynb`
+- **Archivo**: `Ejercicio01.ipynb`
 - **Funcionalidad**: 
   - Solicita al usuario dos números naturales.
   - Calcula el MCD usando el algoritmo de Euclides.
@@ -23,7 +23,7 @@ En este ejercicio, se implementa el algoritmo de Euclides para calcular el Máxi
 
 Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos o negativos. Se valida que el ingreso sea un número entero, solicitando una nueva entrada en caso de errores.
 
-- **Archivo**: `Ejercicio_02/Ejercicio02.ipynb`
+- **Archivo**: `Ejercicio02.ipynb`
 - **Funcionalidad**:
   - Solicita al usuario dos números enteros.
   - Calcula el MCD usando el algoritmo de Euclides y aplica el valor absoluto de los números.
@@ -38,8 +38,8 @@ Este ejercicio amplía la funcionalidad para aceptar números enteros, positivos
 
 ```plaintext
 .
-├── Ejercicio_01   # Primer ejercicio: MCD con números naturales
-├── Ejercicio_02   # Segundo ejercicio: MCD con números enteros
+├── Ejercicio01   # Primer ejercicio: MCD con números naturales
+├── Ejercicio02   # Segundo ejercicio: MCD con números enteros
 └── README.md      # Descripción del proyecto
 ```
 ## Notas Adicionales
